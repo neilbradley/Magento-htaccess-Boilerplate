@@ -1,0 +1,3 @@
+Incorporates .htaccess from the HTML5 Boilerplate by Paul Irish (https://github.com/paulirish/html5-boilerplate) into the .htaccess for Magento 1.5.0.1.
+
+On a default install of Magento 1.5.0.1, the .htaccess increases the YSlow rating to an overall performance score of 89 (Grade B). Further improvements can be made by minifying scripts and stylesheets.
